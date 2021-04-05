@@ -26,7 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## System Information
 
 ## Author
-Abdiwakil Adan - Bukhaari with facebook: [https://www.facebook.com/maanlule](Bukhaari)
+Abdiwakil Adan - Bukhaari with facebook: [Bukhaari Aadan](https://www.facebook.com/maanlule)
 
 ## Version
 1.0.0
